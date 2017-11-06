@@ -1,0 +1,127 @@
+.module-1014 {
+  margin-left: 35px;
+  margin-bottom: 100px;
+}
+.module-1014 form label {
+  width: 100%;
+  font-weight: normal;
+}
+.module-1014 .message .wpcf7-form-control {
+  width: 100%;
+}
+.module-1014 .wpcf7-form-control {
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+.module-1014 .wpcf7-submit {
+  color: #fff;
+  text-shadow: 0 -1px 0 rgba(0,0,0,0.25);
+  background-color: #2aafea;
+  border-color: #2aafea;
+  border-radius: 4px;
+  width: 50%;
+  float: right;
+}
+.module-1014 input {
+  padding: 7px;
+  width: 100%;
+}
+.module-1014 textarea {
+  padding: 5px;
+}
+.module-1014 div.wpcf7 .ajax-loader {
+  float: right;
+}
+.module-1014 .wpcf7-form-control:hover {
+  opacity: 0.7;
+}
+.module-1014 img {
+  width: 70%;
+}
+.maps {
+  margin-bottom: 100px;
+  margin-left: 35px;
+}
+.vcc_contact {
+  margin-left: 35px;
+}
+@media only screen and (min-width: 320px) {
+  .vcc_contact .getintouch-title {
+    font-size: 18px;
+    font-weight: 100;
+    border-bottom: solid 1px #acacac;
+    padding-bottom: 3px;
+    color: gray;
+    margin-top: 4px;
+  }
+  .vcc_contact .divider.form-group {
+    margin: 0px;
+    margin-bottom: 15px;
+  }
+  .vcc_contact .divider {
+    width: 92px;
+    height: 3px;
+    background-color: #00ABEB;
+    position: relative;
+    top: -2px;
+  }
+}
+.vvc_contact_head {
+  margin-top: 40px;
+  padding: 0px;
+  border-bottom: solid 1px #acacac;
+  width: 100%;
+  margin-bottom: 40px;
+}
+@media only screen and (min-width: 480px) {
+  .vvc_contact_head .page-title {
+    display: inline-block;
+    font-size: 28px;
+    border-bottom: solid 3px #00ABEB;
+    margin-bottom: 0;
+    padding-bottom: 5px;
+    position: relative;
+    top: 2px;
+  }
+  .vvc_contact_head .breadcrum {
+    float: right;
+    display: inline-block;
+    margin-bottom: 0px;
+    margin-top: 29px;
+    color: #808080;
+    font-size: 14px;
+  }
+}
+.vcc_contacts {
+  margin-bottom: 60px;
+  margin-top: 60px;
+}
+.vcc_contacts .left-strip {
+  border-left: 6px solid #00ABEB;
+  display: inline-block;
+  position: absolute;
+  height: 100%;
+  width: 6px;
+}
+.vcc_contacts .contact_details {
+  margin-top: 20px;
+  margin-left: 35px;
+  margin-bottom: 50px;
+}
+@media screen and (max-width: 767px) {
+  .vcc_contact,
+  .maps,
+  contact_details,
+  .module-1014 {
+    margin-left: 20px;
+  }
+  .contact_details {
+    margin-bottom: 0;
+  }
+  .module-1014 {
+    margin-bottom: 30px;
+  }
+  .vcc_contact {
+    margin-top: 30px;
+  }
+}

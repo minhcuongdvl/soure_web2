@@ -1,0 +1,226 @@
+.module-1007 {
+  padding: 60px 0;
+  background-color: #f9f9f9;
+}
+.module-1007 .left-strip {
+  border-left: 6px solid #00ABEB;
+  display: inline-block;
+  position: absolute;
+  height: 100%;
+  width: 6px;
+}
+.module-1007 .box_inner {
+  width: 100%;
+}
+.module-1007 .content {
+  margin-left: 28px;
+  margin-bottom: 30px;
+}
+.module-1007 .content h3 {
+  font-size: 30px;
+  line-height: 30px;
+  font-weight: 700;
+  color: #223243;
+  margin-top: -2px;
+  margin-bottom: 18px;
+}
+.module-1007 .content .center {
+  margin-left: 10px;
+  text-align: center;
+}
+.module-1007 .icon {
+  margin-bottom: 20px;
+}
+.module-1007 .icon img {
+  max-width: 80%;
+  height: auto;
+}
+.module-1007 h5 {
+  font-size: 24px;
+  line-height: 24px;
+  font-weight: 400;
+  margin-bottom: 14px;
+  color: #223243;
+  margin-top: 0;
+}
+.module-1007 h5 a {
+  color: black;
+}
+.module-1007 h5 a:hover {
+  opacity: 0.6;
+}
+.module-1007 .blocks-list_text {
+  height: 120px;
+  margin-left: -40px;
+  margin-right: -30px;
+}
+.module-1007 .blocks-list_text p {
+  line-height: 23px;
+}
+.module-1007 .content_bottom {
+  margin-left: 28px;
+  margin-bottom: 0px;
+}
+@media screen and (max-width: 767px) {
+  .module-1007 .box_inner {
+    display: grid;
+  }
+  .module-1007 .icon {
+    margin-bottom: 15px;
+  }
+  .module-1007 .icon img {
+    width: 60%;
+  }
+  .module-1007 .content .center {
+    margin-left: 0;
+    text-align: inherit;
+  }
+  .module-1007 .blocks-list_text {
+    margin: 0;
+  }
+}
+@media screen and (max-width: 1280px) {
+  .module-1007 .blocks-list_text {
+    margin-right: 0;
+  }
+}
+.module-1008 {
+  margin-top: 50px;
+}
+.module-1008 .left-strip {
+  border-left: 6px solid #00ABEB;
+  display: inline-block;
+  position: absolute;
+  height: 100%;
+  width: 6px;
+}
+.module-1008 .content {
+  margin-left: 28px;
+}
+.module-1008 .content h5 {
+  font-size: 24px;
+  line-height: 24px;
+  font-weight: 400;
+  margin-bottom: 14px;
+  color: #223243;
+}
+.module-1008 .content h5 a {
+  color: black;
+}
+.module-1008 .content h5 a:hover {
+  opacity: 0.6;
+}
+.module-1008 .icons {
+  display: table;
+  margin: 0 auto 16px;
+}
+.module-1008 .btn {
+  padding: 0;
+  color: #fff;
+  display: inline-block;
+  height: 32px;
+  margin-top: 28px;
+  position: relative;
+}
+.module-1008 .btn_arrow {
+  font-size: 14px;
+  line-height: 14px;
+  font-weight: 700;
+  background: #1189f5;
+  display: inline-block;
+  text-align: center;
+  padding: 9px 0;
+  width: 32px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  -webkit-transition: all 0.1s linear 0s;
+  -moz-transition: all 0.1s linear 0s;
+  -o-transition: all 0.1s linear 0s;
+  transition: all 0.1s linear 0s;
+}
+.module-1008 .btn_text {
+  font-size: 13px;
+  line-height: 13px;
+  font-weight: 400;
+  display: inline-block;
+  text-align: center;
+  padding: 10px 13px 0 45px;
+  background: #00ABEB;
+  height: 32px;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+.module-1008 .info-col_col {
+  text-align: center;
+}
+@media screen and (max-width: 767px) {
+  .module-1008 .content {
+    margin-bottom: 40px;
+  }
+  .module-1008 .btn {
+    margin-right: 25px;
+  }
+}
+.module-1009 {
+  padding: 60px 0;
+  background-color: #f9f9f9;
+  margin-top: 50px;
+}
+.module-1009 .left-strip {
+  border-left: 6px solid #00ABEB;
+  display: inline-block;
+  position: absolute;
+  height: 100%;
+  width: 6px;
+}
+.module-1009 h3 {
+  font-size: 30px;
+  line-height: 30px;
+  font-weight: 700;
+  color: #223243;
+  margin-top: -5px;
+  margin-bottom: 18px;
+}
+.module-1009 .content {
+  margin-left: 28px;
+}
+.module-1009 .list p {
+  color: #777;
+  display: inline-block;
+  position: relative;
+  padding-left: 20px;
+  line-height: 13px;
+}
+.module-1009 .list p:hover {
+  opacity: 0.6;
+}
+.module-1009 .list p:before {
+  font-family: FontAwesome;
+  left: 0;
+  top: 0;
+  content: "";
+  color: #00ABEB;
+  position: absolute;
+  pointer-events: none;
+  -webkit-transition: 0.2s ease-out;
+  -moz-transition: 0.2s ease-out;
+  -ms-transition: 0.2s ease-out;
+  -o-transition: 0.2s ease-out;
+  transition: 0.2s ease-out;
+}
+.module-1009 .list a:hover p:before {
+  left: 10px;
+  -webkit-transition: 0.2s ease-in;
+  -moz-transition: 0.2s ease-in;
+  -ms-transition: 0.2s ease-in;
+  -o-transition: 0.2s ease-in;
+  transition: 0.2s ease-in;
+}
+.module-1009 .p__title {
+  margin-bottom: 20px;
+}

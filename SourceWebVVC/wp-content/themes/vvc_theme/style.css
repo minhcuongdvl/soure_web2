@@ -1,0 +1,67 @@
+/*
+Theme Name: vvc_theme
+Theme URI: 
+Author: vvc_theme
+Author URI: https://wordpress.org/
+Description: 
+Version: 1.0
+License:
+License URI: 
+Tags: one-column, two-columns, right-sidebar, accessibility-ready, custom-background, custom-colors, custom-header, custom-menu, editor-style, featured-images, flexible-header, microformats, post-formats, rtl-language-support, sticky-post, threaded-comments, translation-ready, blog
+Text Domain: vvc_theme
+*/
+
+#wpadminbar{
+    display: none;
+}
+
+.widget{
+   font-family: "arial", helvetica, sans-serif;
+    
+}
+
+.vcc_solution{
+    
+    margin: 50px 0;
+   font-family: "arial", helvetica, sans-serif; 
+}
+.sidebar-solution{
+    background: #f0f0f0;
+    margin: 0;
+    padding: 1px 30px 40px 30px;
+}
+.sidebar-solution h3{
+        color: #33cc33;
+    margin: 0;
+    padding: 0;
+}
+.sidebar-solution h4{
+    font-size:  20px;
+    color: #333;
+}
+
+
+.vcc_solution ul.style-1{
+    
+    list-style: url(http://vntt.com.vn/templates/vntt_v4/images/bullet.png);
+
+}
+.vcc_solution .content-left ul{
+  padding: 0 20px;
+  margin: 10px 0 0 20px;      
+}
+.vcc_solution .content-left ul li{
+    margin-top: 5px;
+}
+html{
+    font-family: "arial", helvetica, sans-serif;
+}
+@media screen and (max-width: 570px){
+
+.Rich_Web_Tabs_Tab_1 li {
+    background:#fff !important;
+}
+}
+li{
+    list-style: none;
+}

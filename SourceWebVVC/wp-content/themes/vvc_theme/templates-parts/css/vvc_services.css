@@ -1,0 +1,73 @@
+.module-1010 {
+  margin-top: 40px;
+  padding: 20px 0;
+  background-color: #f9f9f9;
+}
+.module-1010 .left-strip {
+  border-left: 6px solid #00ABEB;
+  display: inline-block;
+  position: absolute;
+  height: 100%;
+  width: 6px;
+}
+.module-1010 h3 {
+  font-size: 30px;
+  line-height: 30px;
+  font-weight: 700;
+  color: #223243;
+  margin-top: -2px;
+  margin-bottom: 18px;
+}
+.module-1010 .service_vcc {
+  margin-left: 28px;
+}
+.module-1010 .service_vcc .img-responsive {
+  display: block;
+  max-width: 70%;
+  height: auto;
+}
+@media screen and (max-width: 767px) {
+  .module-1010 .content .center {
+    margin-left: 0;
+    text-align: inherit;
+  }
+  .module-1010 .service_vcc .img-responsive {
+    display: block;
+    max-width: 100%;
+    height: auto;
+  }
+}
+.module-1011 {
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+.module-1011 .left-strip {
+  border-left: 6px solid #00ABEB;
+  display: inline-block;
+  position: absolute;
+  height: 100%;
+  width: 6px;
+}
+.module-1011 h3 {
+  font-size: 30px;
+  line-height: 30px;
+  font-weight: 700;
+  color: #223243;
+  margin-top: -2px;
+  margin-bottom: 18px;
+}
+.module-1011 .service2_vcc {
+  margin-left: 28px;
+}
+.module-1011 .service2_vcc img {
+  height: auto;
+  width: 99.184%;
+  margin: 10px 0 6px 0;
+}
+.module-1011 .img-about-us {
+  margin-top: 3px;
+}
+.module-1011 .img-respon {
+  width: 100%;
+  height: auto;
+}
